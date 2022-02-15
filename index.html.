@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Derivado de "Proyecto: blog"</title>
+        <style>
+        h2{color:rgb(242, 14, 33);
+    font-size:30px;
+            text-decoration:underline;
+            text-align:center;
+        }   
+         h1{color:rgb(15, 52, 171);}   
+           
+   body{background-color:rgb(184, 165, 103);}        
+      p{font-family:"Helvetica", sans-serif;
+          line-height:1em;
+      }      
+      
+      h4{
+          font-size:25px;
+      }
+      h5{font-size:20px;
+          text-align:center;
+          font-style:italic;
+          color:rgb(40, 89, 17);
+      }
+           
+           h3{font-weight:bold;}
+           li{
+              font-family:"Bernard MT Condensed", sans-serif; 
+           }
+           
+            
+            
+        </style>
+    </head>
+    <body>
+        
+        <h1>Visitas que he hecho alrededor de mi ciudad's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li><a href="#isla">Viaje Al Frio</a></li>
+            <li><a href="#patmos"> Viaje Al Calor</a></li>
+            <li><a href="#lee">Viaje al clima calido</a></li>
+        </ul>
+        
+        <h2 id="isla">Viaje Al Frio</h2>
+        <h4>Arcotete</h4>
+        <p>En este corto viaje fuimos a un lugar turistico, para poder despejarnos un rato del estres</p>
+        
+<h5>Cosas que me parecieron interesantes</h5>   
+
+<ul>
+    <li>La tirolesa</li>
+    <li>Las Grandes rocas</li>
+    <li>Los arboles que se encuentran alrededor</li>
+    <li>Lo que se encuentra dentro de las grandes rocas</li>
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/mountains-in-hawaii.png" width="250">
+</ul>
+
+ <h2 id="patmos">Viaje Al Calor</h2>
+<h4>Aguas termales</h4>
+<p>En esta bonita salida, pues fuimos a unas pozas a combatir el calor <em>¡JAJAJAJA¡</em></p>
+
+<h5>Cosas que me parecieron interesantes de las aguas termales</h5> 
+
+<ul>
+    <li>El agua proviene de un virtiente</li>
+    <li>El agua no se estanca, sino que corre</li>
+    
+    
+</ul>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/waterfall_niagara-falls.png"width="250">
+
+
+<h2 id="lee">Viaje al clima calido</h2>
+<h4>Campo sin tecnologia</h4>
+
+<p>En esta experiencia aprendi mucho. En esta ocasion fuimos un grupo de jovenes de la iglesia a un lugar donde no habia señal</p>
+
+<p>Me parecio interesante ya que nos conocimos y conocimos la presencia de nuestro Dios </p>
+
+<h5>Cosas que me parecieron interesantes del campo</h5> 
+
+<ul>
+    <li>Que no habia señal</li>
+    <li>Lo fresco que estaba</li>
+    <li>La presencia de Dios</li>
+    
+    
+</ul>
+<img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/mountains-and-lake.png" width="250">
+
+
+
+
+        
+        <p><a href="https://es.khanacademy.org/computing/computer-programming/html-css/css-text-properties/pp/project-blog">Something excited happened.</a></p>
+        
+        
+    </body>
+</html>
